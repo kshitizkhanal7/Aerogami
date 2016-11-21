@@ -5,3 +5,6 @@ To the scientist an aeroplane is merely a complex body moving through a fluid, a
 
 The successful aeroplane, like many other pieces of mechanism, is a huge mass of compromise. -Howard T. Wright, "Aeroplanes from an Engineer's Point of View" (1912)
 
+<a href ="http://nbviewer.jupyter.org/github/kshitizkhanal7/Aerogami/blob/master/Aerogami101.01.ipynb?flush_cache=true">Code here</a>
+
+
