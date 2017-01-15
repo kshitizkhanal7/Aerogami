@@ -1,7 +1,11 @@
 # Aerogami: The Art and Science of Aerodynamics using Paper Planes
 An Open Education practice teaching Aerodynamics using Paper Planes
 
-Everybody is intrigued with how things fly. But clear understanding of the concept is limited to people with background in engineering and physics. Only few of those who understand how things fly can explain it well enough to lay men.  
+How do we learn and internalize fundamental concepts in any domain? Learning is connecting. We connect new concepts with things we already know.  
+
+Einstein said, "If you cant explain it to a child, you don't understand it well enough."
+
+Everybody is intrigued with how things fly. But clear understanding of the concept is limited to people with background in engineering and physics. Only few of those who understand how things fly can explain it well enough to laymen.   
 
 One man's magic is another man's engineering. - Anonymous
 
