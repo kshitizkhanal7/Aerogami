@@ -1,5 +1,5 @@
 # Aerogami: The Art and Science of Aerodynamics using Paper Planes
-An Open Education practice teaching Aerodynamics using Paper Planes
+Simply put, it's an Open Education practice about learning and internalizing how things fly using Paper Planes, interactive games, and plain english.  
 
 How do we learn and internalize fundamental concepts in any domain? Learning is connecting. We connect new concepts with things we already know.  
 
