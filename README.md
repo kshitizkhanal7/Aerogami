@@ -1,17 +1,15 @@
 # Aerogami: The Art and Science of Aerodynamics using Paper Planes
-Simply put, it's an Open Education practice about learning and internalizing how things fly using Paper Planes, interactive games, and plain english.  
+Rationale 
+Do you know how birds and planes fly? If you do, can you explain it to a 10 year old? Mostly, only those with a background in engineering and physics clearly understand how things fly. Only a few of them can explain it in purely non-technical terms. What if a person with a background in philosophy wants to learn how things fly? Are the resources available in the first page of Google good enough? 
 
-How do we learn and internalize fundamental concepts in any domain? Learning is connecting. We connect new concepts with things we already know.  
+Introduction
+The idea is to turn information into experience so that learning becomes seamless and intuitive. This will happen in the following steps (not in the strict order):
+1.	The conceptual background is explained using 1000 of the most common words in English. 
+2.	A workshop is designed on making, flying, and testing paper planes.
+3.	An interactive web application / game that will give a feel about how variation of affecting parameters affects the flight
 
-Einstein said, "If you cant explain it to a child, you don't understand it well enough."
-
-Everybody is intrigued with how things fly. But clear understanding of the concept is limited to people with background in engineering and physics. Only few of those who understand how things fly can explain it well enough to laymen.   
-
-One man's magic is another man's engineering. - Anonymous
-
-To the scientist an aeroplane is merely a complex body moving through a fluid, and until he understands how a simple body moves he has no chance of understanding the fundamental principles of aeronautics. - G. I . Taylor "Scientific Method in Aeronautics" (1921)
-
-The successful aeroplane, like many other pieces of mechanism, is a huge mass of compromise. -Howard T. Wright, "Aeroplanes from an Engineer's Point of View" (1912)
+Approach
+This is an open educational practice, which means that the content and other resources like methodology, working principle etc. are freely accessible, reusable, and redistributable for anyone with access to internet. 
 
 <a href ="http://nbviewer.jupyter.org/github/kshitizkhanal7/Aerogami/blob/master/Aerogami101.01.ipynb?flush_cache=true">Code here</a>
 
