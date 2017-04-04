@@ -13,7 +13,3 @@ The idea is to turn information into experience so that learning becomes seamles
 Approach:
 
 This is an open educational practice, which means that the content and other resources like methodology, working principle etc. are freely accessible, reusable, and redistributable for anyone with access to internet. 
-
-<a href ="http://nbviewer.jupyter.org/github/kshitizkhanal7/Aerogami/blob/master/Aerogami101.01.ipynb?flush_cache=true">Code here</a>
-
-
