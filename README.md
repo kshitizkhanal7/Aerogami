@@ -1,7 +1,7 @@
 # Aerogami: The Art and Science of Aerodynamics using Paper Planes
 Rationale: 
 
-Do you know how birds and planes fly? If you do, can you explain it to a 10 year old? Mostly, only those with a background in engineering and physics clearly understand how things fly. Only a few of them can explain it in purely non-technical terms. What if a person with a background in philosophy wants to learn how things fly? Are the resources available in the first page of Google good enough? 
+Do you know how birds and planes fly? If you do, can you explain it to a 10 year old? Mostly, only those with a background in engineering and physics clearly understand how things fly. Only a few of them can explain it in purely non-technical terms.  Is Aerodynamics really that complex that you cannot teach it to a middle-school student? What if a person with a background in philosophy wants to learn how things fly? Are the resources available in the first page of Google good enough? 
 
 Introduction:
 
