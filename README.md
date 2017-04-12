@@ -14,6 +14,10 @@ Approach:
 
 This is an open educational practice, which means that the content and other resources like methodology, working principle etc. are freely accessible, reusable, and redistributable for anyone with access to internet. 
 
+Simple explanation of how things fly:
+
+<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/How%20Things%20Fly.ipynb">here's how things fly</a>
+
 Sample lesson plan:
 
 <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/Hoop%2BGlider.ipynb">Hoop Glider</a> 
