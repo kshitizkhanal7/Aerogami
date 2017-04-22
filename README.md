@@ -10,9 +10,17 @@ The idea is to turn information into experience so that learning becomes seamles
 2.	A workshop is designed on making, flying, and testing paper planes.
 3.	An interactive web application / game that will give a feel about how variation of affecting parameters affects the flight
 
+How do you know if a person understands the basics of aerodynamics? Our guess is, if they can clearly answer following sets of questions, they have a general idea of how things fly. 
+1. What are the forces that act on a flying object?
+2. Why are flying objects shaped the way they are? (streamlined)
+3. How does pressure difference help flight? 
+4. How are jet engines different from, say, diesel engines? 
+
 Approach:
 
 This is an open educational practice, which means that the content and other resources like methodology, working principle etc. are freely accessible, reusable, and redistributable for anyone with access to internet. 
+
+The idea is to try to create activities that helps answer each of the questions above. 
 
 Simple explanation of how things fly:
 
