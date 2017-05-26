@@ -32,4 +32,6 @@ Sample lesson plan:
 
 <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/Hoop%2BGlider.ipynb">Hoop Glider</a> 
 
+<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md">COntributing</a>
 Participation Guidelines: <a href = "https://www.mozilla.org/en-US/about/governance/policies/participation/"> Mozilla Community Participation Guidelines </a>
+License: <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE">Creative Commons Attribution 4.0</a>
