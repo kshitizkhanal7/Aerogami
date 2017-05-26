@@ -24,14 +24,11 @@ This is an open educational practice, which means that the content and other res
 
 The idea is to try to create activities that helps answer each of the questions above. 
 
-Simple explanation of how things fly:
-
-<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/How%20Things%20Fly.ipynb">here's how things fly</a>
-
-Sample lesson plan:
-
-<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/Hoop%2BGlider.ipynb">Hoop Glider</a> 
 
 <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md">COntributing</a>
+
+
 Participation Guidelines: <a href = "https://www.mozilla.org/en-US/about/governance/policies/participation/"> Mozilla Community Participation Guidelines </a>
+
+
 License: <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE">Creative Commons Attribution 4.0</a>
