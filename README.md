@@ -5,10 +5,10 @@ Do you know how birds and planes fly? If you do, can you explain it to a 10 year
 
 Introduction:
 
-The idea is to turn information into experience so that learning becomes seamless and intuitive. This will happen in the following steps (not in the strict order):
-1.	The conceptual background is explained using 1000 of the most common words in English. 
-2.	A workshop is designed on making, flying, and testing paper planes.
-3.	An interactive web application / game that will give a feel about how variation of affecting parameters affects the flight
+The idea is to turn information into experience so that learning becomes seamless and intuitive. 
+1.	All content is explained using 1000 of the most common words in English as far as possible. 
+2.	Workshops are designed on making, flying, and testing paper planes and other simple setups to make learning more interactive, intuitive, and fun.
+3. Some interactive web applications / games in the future that will give a feel about how variation of affecting parameters affects the flight
 
 How do you know if a person understands the basics of aerodynamics? Our guess is, if they can clearly answer following sets of questions, they have a general idea of how things fly. 
 1. What are the forces that act on a flying object?
