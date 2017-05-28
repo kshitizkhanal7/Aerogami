@@ -25,7 +25,7 @@ This is an open educational practice, which means that the content and other res
 The idea is to try to create activities that helps answer each of the questions above. 
 
 
-<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md">Contributing</a>
+**How to Contribute:**<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md">Contributing</a>
 
 
 **Participation Guidelines:** <a href = "https://www.mozilla.org/en-US/about/governance/policies/participation/"> Mozilla Community Participation Guidelines </a>
