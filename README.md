@@ -13,7 +13,7 @@ The idea is to turn information into experience so that learning becomes seamles
 **How do you know if a person understands the basics of aerodynamics?** Our guess is, if they can clearly answer following sets of questions, they have a general idea of how things fly. 
 1. What are the forces that act on a flying object?
 2. Why are flying objects shaped the way they are? (streamlined)
-3. <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/flight%20wings.pdf">How do wings of an aeroplane help life them?</a>
+3. <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/flight%20wings.pdf">How do wings of an aeroplane help lift them?</a>
 4. How does pressure difference help flight? 
 5. How are jet engines different from, say, diesel engines? 
 
