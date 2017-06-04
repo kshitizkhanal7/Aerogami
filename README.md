@@ -10,7 +10,8 @@ The idea is to turn information into experience so that learning becomes seamles
 2.	Workshops are designed on making, flying, and testing paper planes and other simple setups to make learning more interactive, intuitive, and fun.
 3. Some interactive web applications / games in the future that will give a feel about how variation of affecting parameters affects the flight
 
-**How do you know if a person understands the basics of aerodynamics?** Our guess is, if they can clearly answer following sets of questions, they have a general idea of how things fly. 
+**How do you know if a person understands the basics of aerodynamics?**  
+Our guess is, if they can clearly answer following sets of questions, they have a general idea of how things fly. 
 1. What are the forces that act on a flying object?
 2. Why are flying objects shaped the way they are? (streamlined)
 3. <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/flight%20wings.pdf">How do wings of an aeroplane help lift them?</a>
@@ -25,10 +26,10 @@ This is an open educational practice, which means that the content and other res
 The idea is to try to create activities that helps answer each of the questions above. 
 
 
-**How to Contribute: **<a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md">Contributing</a>
+**How to Contribute:** [Contributing](https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md)
 
 
-**Participation Guidelines:** <a href = "https://www.mozilla.org/en-US/about/governance/policies/participation/"> Mozilla Community Participation Guidelines </a>
+**Participation Guidelines:** [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 
-**License:** <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE">Creative Commons Attribution 4.0</a>
+**License:** [Creative Commons Attribution 4.0](https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE)
