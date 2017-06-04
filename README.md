@@ -29,7 +29,7 @@ The idea is to try to create activities that helps answer each of the questions 
 **How to Contribute:** [Contributing](https://github.com/kshitizkhanal7/Aerogami/blob/master/CONTRIBUTING.md)
 
 
-**Participation Guidelines:** <a href = "https://www.mozilla.org/en-US/about/governance/policies/participation/"> Mozilla Community Participation Guidelines </a>
+**Participation Guidelines:** [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/)
 
 
-**License:** <a href = "https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE">Creative Commons Attribution 4.0</a>
+**License:** [Creative Commons Attribution 4.0](https://github.com/kshitizkhanal7/Aerogami/blob/master/LICENSE)
